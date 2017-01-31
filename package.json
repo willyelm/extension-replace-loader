@@ -1,0 +1,30 @@
+{
+  "name": "extension-replace-loader",
+  "version": "0.0.1",
+  "description": "File extension replace loader for webpack",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willyelm/extension-replace-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willyelm/extension-replace-loader/issues"
+  },
+  "homepage": "https://github.com/willyelm/extension-replace-loader",
+  "keywords": [
+    "loader",
+    "webpack",
+    "replace",
+    "extension",
+    "ext",
+    "file"
+  ],
+  "author": "Williams Medina <williams.medinaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.14"
+  }
+}
