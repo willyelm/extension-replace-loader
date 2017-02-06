@@ -1,4 +1,4 @@
-# Pug HTML loader for webpack
+# File extension replace loader for webpack
 
 ## Installation
 
